@@ -13,7 +13,6 @@ session_start();
 $enemys = array();
 
 
-//抽象クラス　ヒソカと敵の大枠
 
 abstract class Hunter{
   protected $name;
